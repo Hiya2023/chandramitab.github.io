@@ -1,9 +1,6 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-- jekyll-include-cache
-
-minimal_mistakes_skin: "default"
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Chandramita]
 description: [AI engineering]
