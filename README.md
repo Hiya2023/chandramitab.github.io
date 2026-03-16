@@ -92,6 +92,8 @@ My main interests include:
 
 ### Master's Thesis — Ulm University
 Benchmarked text-to-3D generation models using attribute-specific prompts and evaluation metrics to evaluate semantic alignment, 3D plausibility, and mesh quality.
+Repository:  
+https://github.com/Hiya2023/attribute-t23d-bench
 
 ### Generative AI Project
 Investigated the effectiveness of human feedback in identifying artifacts in AI-generated human portraits.
