@@ -1,6 +1,6 @@
 # Chandramita Bhattacharya
 
-**AI/ML Engineer | Data Scientist | Generative AI | Computer Vision**
+AI/ML Engineer · Data Scientist · Generative AI · Computer Vision
 
 📍 Munich, Germany  
 📧 chandramita.bhattacharya@gmail.com  
