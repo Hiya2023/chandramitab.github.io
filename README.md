@@ -138,23 +138,9 @@ Painting • Badminton • Dancing • Cooking • Yoga
 
 ---
 
-## Portfolio Website
-
-This repository hosts my GitHub Pages portfolio built using the **Minimal Mistakes Jekyll theme**.
-
-The website includes:
-
-- Professional background
-- AI/ML projects
-- Research work
-- Resume
-- Contact information
-
----
-
 ## Contact
 
-If you are interested in collaboration, research discussions, or AI engineering opportunities, feel free to reach out.
+If you are interested in research discussions, or AI engineering job opportunities, feel free to reach out.
 
 📧 chandramita.bhattacharya@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/chandramita-bhattacharya
